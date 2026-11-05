@@ -8,7 +8,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/securityhub v1.75.3
 	github.com/fatih/color v1.19.0
 	github.com/golang/glog v1.2.5
-	github.com/magiconair/properties v1.8.10
+	github.com/magiconair/properties v1.18.12
 	github.com/onsi/ginkgo v1.16.5
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.10.2
